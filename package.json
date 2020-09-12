@@ -43,7 +43,7 @@
     "@types/node": "^12.11.7",
     "easymidi": "^1.0.2",
     "lodash": "^4.17.15",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "standardized-audio-context-mock": "^7.1.10",
     "tonal": "^2.2.2",
     "web-audio-mock-api": "^1.0.0",
